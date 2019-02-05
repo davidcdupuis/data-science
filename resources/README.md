@@ -5,7 +5,7 @@
 ### Data Science
 
 - [ ] Introduction to Statistical Learning
-- [ ] Linear Algebra
+- [ ] [Linear Algebra - MIT OpenCourseware](http://math.mit.edu/~gs/linearalgebra/)
 - [ ] Deep Learning
 
 ### Marketing Science
@@ -16,5 +16,5 @@
 
 ## URLS
 
-* https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/
+* https://machinelearningmastery.com/
 * https://www.analyticsvidhya.com/
