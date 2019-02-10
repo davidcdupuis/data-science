@@ -1,0 +1,25 @@
+{ "ML data processing":{
+    "data types":["nominal","ordinal values","ratio","interval"],
+    "data exploration":[],
+    "feature cleaning":[],
+    "feature imputation":[],
+    "feature engineering":[],
+    "feature selection":[],
+    "feature encoding":[],
+    "feature normalisation or scaling":[],
+    "dataset construction":[]
+  },
+  "ML concepts":{
+    "types": ["regression","classification","clustering","density estimation","dimensionality reduction"],
+    "kind":["parametric","non-parametric"],
+    "categories":["supervised","unsupervised","reinforcement learning"],
+    "approached":[],
+    "taxonomy":[],
+    "selection criteria":[],
+    "libraries":[],
+    "motivation":[],
+    "performance analysis":[],
+    "tuning":[]
+    }
+  }
+}
