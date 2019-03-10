@@ -44,9 +44,9 @@
   * Multidimensional Scaling (MDS)
   * Projection Pursuit
   * Principal Component Regression (PCR)
-  * Partial Least Squares Discrimant Analysis
+  * Partial Least Squares Discriminant Analysis
   * Mixture Discriminant Analysis (MDA)
-  * Quadratic Disriminant Analysis (QDA)
+  * Quadratic Discriminant Analysis (QDA)
   * Regularized Discriminant Analysis (RDA)
   * Flexible Discriminant Analysis (FDA)
   * Linear Discriminant Analysis (LDA)
