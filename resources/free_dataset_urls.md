@@ -1,0 +1,3 @@
+- https://archive.ics.uci.edu/ml/index.php
+- French Government Open Data: https://www.data.gouv.fr/fr/
+- San Francisco Open Data: https://datasf.org/opendata/

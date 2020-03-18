@@ -4,8 +4,6 @@ A repository with everything data science related.
 
 Work in progress.
 
-Happy Coding!
-
 ## Stuff found here
 
 Gather overall data science and machine learning resources, such as:
